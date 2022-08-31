@@ -1,0 +1,7 @@
+1) CREATE repository
+2) git init
+3) git add --all
+4)git commit -m "first commit"
+5) git remote add origin "https://github.com/yaseraf/Mobile_Android.git -> url of repository"
+6)  git branch -M   "branch name"
+7) git push -u "branch name"
